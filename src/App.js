@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import "./styles.css";
+import ".styles.css";
 
 export default function App() {
   const [messages, setMessages] = useState([]);
