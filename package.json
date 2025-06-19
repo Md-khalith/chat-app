@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "homepage": "https://yourusername.github.io/chat-app",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
